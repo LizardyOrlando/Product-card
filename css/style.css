@@ -14,7 +14,9 @@
 body{
     background: var(--Cream);
 }
-
+main{
+    transform: translateY(50px);
+}
 .card{
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
